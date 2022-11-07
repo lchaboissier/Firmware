@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Touch",
+			"path": "..\\..\\Touch"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"LEDB",
+			"ledr"
+		]
+	}
+}

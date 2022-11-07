@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cSpell.ignoreWords": [
+        "channel",
+        "ledb",
+        "ledr",
+        "pin",
+        "vin"
+    ]
+}
